@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+import frootloop.main
+frootloop.main.main()
